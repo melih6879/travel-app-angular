@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+
+//colors
+$navbar: #FE7E5B;
+$arrows: #FFB190;
+$footer: #58595b;
+$hover: #FFFFFF;
+$find-new-places: #33282db6;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
